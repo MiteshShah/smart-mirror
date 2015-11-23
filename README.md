@@ -4,7 +4,7 @@ This project is inspired by [HomeMirror](https://github.com/HannahMitt/HomeMirro
 ### [See it in action (Video)](https://www.youtube.com/watch?v=PDIbhV8Nvq8)
 
 ##### Why start from scratch?
-Starting from scratch was less about other projects not being good enough and more about my own learning experience. While I did get a lot of insperation from other projects I really wanted this to be my own!
+Starting from scratch was less about other projects not being good enough and more about my own learning experience. While I did get a lot of inspiration from other projects I really wanted this to be my own!
 
 ##### Hardware Components
 - Raspberry Pi (running Chromium)
